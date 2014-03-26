@@ -15,7 +15,7 @@
 План лекции 26 марта
 --------------------
 
-[Слайды с лекции](slides/part2.pdf)
+[Слайды с лекции](https://speakerdeck.com/vpavlenko/cryptography-part-2-spring-2014-intellectual-high-school)
 
 1. Режимы блочного шифрования.
 2. Хеширование: скорость взлома, fastcoll, length extension attack и HMAC на хэшах.
