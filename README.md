@@ -6,6 +6,8 @@
 
 [Слайды](https://speakerdeck.com/vpavlenko/cryptography-spring-2014-ctf-at-mipt)
 
+[Language modelling](https://speakerdeck.com/vpavlenko/language-modelling-from-natural-language-processing-by-jurafsky-and-manning-at-coursera)
+
 [Таблица результатов](http://ec2-54-186-210-140.us-west-2.compute.amazonaws.com:8000/)
 
 Кодировки
